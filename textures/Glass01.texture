@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Glass01",
+  "identifier": "texture:240536-6e121799-c354-44fe-933e-8454ffe41b06",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "dca7e2d5c57d477a84ebb18afedc31d1",
+  "assetLocator": "textures/Glass01.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 179,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 261,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "dca7e2d5c57d477a84ebb18afedc31d1",
+      "colorCount": 11974,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.229839251298378,
+      "pixelsHigh": 179,
+      "pixelsWide": 261
+    }
+  ]
+}

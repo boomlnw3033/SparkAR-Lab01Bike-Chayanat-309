@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "cool pic",
+  "identifier": "texture:2229-24e9511e-43c2-49bb-aa1e-d43a5a75e413",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "932aa8f75966174a2a3b0a68b14c72a8",
+  "assetLocator": "textures/cool pic.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 411,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "932aa8f75966174a2a3b0a68b14c72a8",
+      "colorCount": 37643,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.075535780240639,
+      "pixelsHigh": 1024,
+      "pixelsWide": 411
+    }
+  ]
+}
